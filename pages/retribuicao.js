@@ -26,6 +26,18 @@ export default function Agradecimento() {
         Pedi uma ajuda ao <strong>Epilif GPT</strong> pra fazer esse
         agradecimento, meio diferenciado 😄
       </p>
+      <p style={{ fontSize: "1em", color: "#777", marginTop: "40px" }}>
+        Se chegou até aqui, pode deixar um comentário lá no commit:
+        <br />
+        <a
+          href="https://github.com/LevyPy/clone-tabnews/commit/5bd8a4ad1eb1b6386a25fd324b1236f0947f7376"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ color: "#0070f3", textDecoration: "none" }}
+        >
+          github.com/LevyPy/clone-tabnews/commit/5bd8a4ad1eb1b6386a25fd324b1236f0947f7376
+        </a>
+      </p>
     </div>
   );
 }
